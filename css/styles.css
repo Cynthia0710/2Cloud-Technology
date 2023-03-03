@@ -1,0 +1,629 @@
+body {
+    text-align: center;
+}
+
+.alert {
+    background-color: #F7F700;
+}
+
+.container-fluid {
+    padding: 0 20%;
+}
+
+.first-navbar {
+    background-color: #E7E7E8;
+}
+
+.first-navbar-icon {
+    color: #3E53FF;
+}
+
+.trace-climate-positive {
+    height: 46px;
+    width: 129px;
+    position: absolute;
+    top: 0;
+}
+
+.logo {
+    height: auto;
+    width: 250px;
+}
+
+.star {
+    display: flex;
+    align-items: flex-end;
+    color: #F8D609;
+}
+
+.review {
+    font-size: small;
+    color: #FFFFFF;
+}
+
+.search-input {
+    width: 350px;
+}
+
+.search-btn {
+    background-color: #44BAAE;
+    color: #3C5461;
+    font-weight: bold;
+}
+
+.third-navbar {
+    background-color: #99999B;
+}
+
+.third-navbar-item:hover {
+    background-color: #2333A5;
+}
+
+.third-navbar-link {
+    color: #FFFFFF;
+    font-size: small;
+    font-weight: bold;
+}
+
+.third-navbar-link:hover {
+    color: #FFFFFF;
+}
+
+.third-navbar-icon {
+    color: #FFFFFF;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+.dropdown-menu {
+    background-color: #2333A5;
+}
+
+.dropdown-menu li a {
+    color: white;
+    font-size: small;
+    font-weight: bold;
+    background-color: #2333A5;
+}
+
+.dropdown-menu li a:hover {
+    color: white;
+    background-color: #1B2787;
+}
+
+.vl {
+    border-left: 1px solid rgba(211, 211, 211, 0.503);
+}
+
+.contact-btn {
+    background-color: #F09B13;
+    border: none;
+    font-weight: bold;
+    border-radius: 35px;
+    width: 150px;
+    height: 40px;
+}
+
+.contact-btn:hover {
+    background-color: #DB8C0E;
+}
+
+.contact-btn-link {
+    color: #FFFFFF;
+    font-size: small;
+    font-weight: bold;
+}
+
+.contact-btn-link:hover {
+    color: #FFFFFF;
+}
+
+.contact-page {
+    width: 250px;
+    height: 250px;
+}
+
+.email-btn {
+    background-color: #F09B13;
+    border: none;
+    font-weight: bold;
+    border-radius: 35px;
+    width: 200px;
+    height: 40px;
+    color: #FFFFFF;
+    font-size: small;
+    font-weight: bold;
+}
+
+.email-btn:hover {
+    background-color: #DB8C0E;
+    color: #FFFFFF;
+}
+
+.contact-page-info {
+    color: #ABABAB;
+    font-size: small;
+}
+
+.carousel-indicators li {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+    padding: 4px;
+    position: relative;
+    margin: 0 15px;
+    background-color: #8889A5;
+}
+
+.carousel-indicators li.active {
+    background-color: #3C50FF;
+}
+
+.slider-portfolio {
+    background-color: #318AC3;
+}
+
+.slider-portfolio-info {
+    color: #FFFFFF;
+    text-align: left;
+    position: absolute;
+    top: 140px;
+    left: 450px;
+}
+
+.slide-port-btn {
+    background-color: #2854AF;
+    border: none;
+    border-radius: 35px;
+    width: 250px;
+    height: 40px;
+}
+
+.slide-port-btn:hover {
+    background-color: #2771A3;
+}
+
+.slide-port-btn .slide-port-btn-link {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.slide-port-btn .slide-port-btn-link:hover {
+    color: #FFFFFF;
+}
+
+.slide-port-btn-link span {
+    margin: 9px 37px;
+}
+
+.slider-portfolio img {
+    margin: auto;
+    width: 60%;
+    height: 450px;
+}
+
+.slider-sock-selector {
+    background-color: #CDC1EA;
+}
+
+.slider-sock-selector-info {
+    text-align: left;
+    position: absolute;
+    top: 140px;
+    left: 400px;
+}
+
+.slide-sock-btn {
+    background-color: #9262B0;
+    border: none;
+    border-radius: 35px;
+    width: 285px;
+    height: 40px;
+}
+
+.slide-sock-btn:hover {
+    background-color: #A8A0C1;
+}
+
+.slide-sock-btn .slide-sock-btn-link {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.slide-sock-btn .slide-sock-btn-link:hover {
+    color: #FFFFFF;
+}
+
+.slide-sock-btn-link span {
+    margin: 9px 37px;
+}
+
+.slider-sock-selector img {
+    margin: auto;
+    width: 60%;
+    height: 450px;
+}
+
+.slider-appawinner {
+    background-color: #9BCBE7;
+}
+
+.slider-appawinner img {
+    margin: auto;
+    width: 60%;
+    height: 450px;
+}
+
+.trust-image-part {
+    background-color: #FFFFFF;
+}
+
+.trust-image-part a img {
+    margin: auto;
+    height: 80px;
+}
+
+.third-part p {
+    margin: auto;
+    width: 40%;
+}
+
+.product-list {
+    background-color: #F6F6F6;
+    width: auto;
+    height: 57px;
+    border: none;
+    color: #5b5a5a;
+    font-weight: bold;
+}
+
+.product-list:hover {
+    background-color: #B4E165;
+}
+
+.product-list:focus {
+    background-color: #C9E990;
+}
+
+.product-list-item {
+    background-color: #F6F6F6;
+    width: auto;
+    height: 550px;
+}
+
+.small-label {
+    font-size: small;
+    width: auto;
+    height: 20px;
+    padding: 0 5px;
+    background-color: #77DD77;
+    position: absolute;
+    top: 10px;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.card-body .product-detail {
+    color: #C5C5C5;
+}
+
+.card-body .product-detail .price-part {
+    float: left;
+}
+
+.card-body .product-detail .qty-part {
+    float: right;
+}
+
+.price-part .price {
+    color: #5B71FF;
+}
+
+.shipping {
+    float: left;
+}
+
+.shipping .shipping-text {
+    color: #6CD9AA;
+    font-size: small;
+}
+
+.more-product-btn {
+    background-color: #F09B13;
+    border: none;
+    border-radius: 35px;
+    width: 330px;
+    height: 40px;
+}
+
+.more-product-btn:hover {
+    background-color: #DB8C0E;
+}
+
+.more-product-btn-link {
+    color: #FFFFFF;
+    font-size: small;
+}
+
+.more-product-btn-link:hover {
+    color: #FFFFFF;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.comments {
+    background-color: #F6F6F6;
+}
+
+.comments-title {
+    color: #616367;
+}
+
+.comment-card {
+    width: 19%;
+    height: 350px;
+    vertical-align: text-top;
+}
+
+.card-title {
+    color: #598FEF;
+    font-weight: bold;
+}
+
+.comment-star {
+    color: #E7711B;
+}
+
+.comment-date {
+    font-size: small;
+    font-weight: 400;
+}
+
+.brandable-products-title {
+    color: #696B6E;
+}
+
+.big-img {
+    width: 505px;
+    height: auto;
+}
+
+.sm-img {
+    width: 250px;
+    height: auto;
+}
+
+.browse-all-btn {
+    background-color: #214fff;
+    border: none;
+    font-weight: bold;
+    border-radius: 35px;
+    width: 150px;
+    height: 40px;
+    color: white;
+}
+
+.browse-all-btn:hover {
+    background-color: green;
+}
+
+.view-btn {
+    background-color: #214fff;
+    border: none;
+    font-weight: bold;
+    border-radius: 35px;
+    width: 150px;
+    height: 40px;
+    color: white;
+}
+
+.view-btn:hover {
+    background-color: green;
+}
+
+.testimonials {
+    width: auto;
+    height: 600px;
+}
+
+.testimonials-slide-detail {
+    background-color: #FFFFFF;
+}
+
+.testimonials-slide-detail img {
+    margin: auto;
+    width: auto;
+    height: 100%;
+}
+
+.news {
+    background-color: #F6F6F6;
+}
+
+.news-title {
+    color: #214fff;
+}
+
+.news-item-image a img {
+    width: 100%;
+    height: 100%;
+}
+
+.news-item-detail {
+    font-size: small;
+    text-align: left;
+}
+
+.news-item-link {
+    text-decoration: none;
+}
+
+.news-item-link .news-item-title {
+    color: #000;
+}
+
+.news-item-link:hover {
+    text-decoration: underline;
+}
+
+.news-item-time {
+    color: #CECDCF;
+}
+
+.benefits-title {
+    color: #214fff;
+}
+
+.circle-background {
+    background-color: #214fff;
+    border: 1px solid #214fff;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+
+.benefit-logo {
+    color: #FFFFFF;
+}
+
+.benefit a {
+    text-decoration: none;
+}
+
+.benefit-text {
+    color: #214fff;
+    font-size: small;
+}
+
+.faqs {
+    background-color: #F6F6F6;
+}
+
+.faqs-title {
+    color: #214fff;
+}
+
+.faqs-text {
+    text-align: left;
+}
+
+.faqs-link {
+    color: #214fff;
+    text-decoration: none;
+}
+
+.faqs-link:hover {
+    color: #9BA4E8;
+    text-decoration: underline;
+}
+
+.accordion-item {
+    border: none;
+    border-radius: 0;
+}
+
+.accordion-button {
+    color: #214fff;
+    font-weight: bold;
+}
+
+.accordion-collapse {
+    text-align: left;
+}
+
+.contact {
+    background-color: #99999B;
+}
+
+.contact-list {
+    text-align: left;
+}
+
+.contact-list h3 {
+    color: #FFFFFF;
+    font-size: small;
+}
+
+.contact-list ul li {
+    list-style-type: none;
+}
+
+.contact-list ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: small;
+}
+
+.contact-list ul li a:hover {
+    color: #214fff;
+}
+
+.contact-form-part h3 {
+    color: #FFFFFF;
+    font-size: small;
+}
+
+.contact-form input {
+    height: 5%;
+}
+
+.contact-form .email-input,
+.tel-input {
+    width: 48%;
+}
+
+.send-btn {
+    background-color: #616367;
+    color: #FFFFFF;
+    float: left;
+    width: 150px;
+}
+
+.send-btn:hover {
+    background-color: #3C50FF;
+    color: #FFFFFF;
+}
+
+.logo-part-1 {
+    width: 300px;
+    height: 100px;
+    color: #B3B7BD;
+    font-size: small;
+    font-weight: bold;
+}
+
+.logo-part-1 a img {
+    width: 45%;
+    height: auto;
+}
+
+.logo-part-2 {
+    width: 600px;
+    height: 100px;
+    color: #B3B7BD;
+    font-size: small;
+    font-weight: bold;
+}
+
+.logo-part-2 a img {
+    width: 45%;
+    height: auto;
+}
+
+.logo-part-2 a i {
+    color: #000;
+}
+
+.logo-part-2 a i:hover {
+    color: #3C50FF;
+}
